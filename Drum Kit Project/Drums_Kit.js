@@ -73,7 +73,6 @@ document.addEventListener("keypress", function(event) {
 
         default: console.log(buttonInnerHTML);
 
-
            }
    }
 
