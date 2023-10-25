@@ -7,9 +7,6 @@ function HouseKeeper (yearsOfExperience, name, cleaningRepertoire){
     }
 }
 
-
-
-
 /*  IN CONSOLE.LOG*/
 
 var houseKeeper1 = new HouseKeeper(12, "James", ["bedroom"]);
