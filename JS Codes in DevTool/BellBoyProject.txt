@@ -4,16 +4,19 @@ var bellBoy1 ={
     hasWorkPermit: true,
     languages:["Tamil, English"]
 }
+
 var bellBoy2 ={
    name: "timy",
     age: 21,
     hasWorkPermit: true,
     languages:["Tamil, English"]
 }
+
 var bellBoy3 ={
    name: "tiy",
     age: 20,
     hasWorkPermit: true,
     languages:["Tamil, English"]
 }
+
 alert("hello, my name is " + "bellBoy1".name);
