@@ -1,0 +1,10 @@
+
+var movieList = ["Leo" , "Varisu" , "Beast" , "Master" , "Sarkar"];
+
+var movieName = prompt("Which is your Fav movie");
+
+if (movieList.includes(movieName)){
+    alert("Super Movie");
+} else{
+    alert("Not In The List.");
+}

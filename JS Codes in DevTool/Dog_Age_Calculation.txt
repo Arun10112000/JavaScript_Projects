@@ -1,0 +1,3 @@
+var dogAge = prompt("How old is your dog?");
+var humanAge = ((dogAge - 2) * 24) + 21;
+alert("Your dog is " + humanAge + " years old in human years.");
