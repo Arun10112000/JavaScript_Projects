@@ -7,4 +7,5 @@ if (movieList.includes(movieName)){
     alert("Super Movie");
 } else{
     alert("Not In The List.");
+
 }
