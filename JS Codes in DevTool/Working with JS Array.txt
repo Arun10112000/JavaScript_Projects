@@ -1,6 +1,7 @@
 
 var movieList = ["Leo" , "Varisu" , "Beast" , "Master" , "Sarkar"];
 
+
 var movieName = prompt("Which is your Fav movie");
 
 if (movieList.includes(movieName)){
