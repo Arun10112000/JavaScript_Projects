@@ -1,4 +1,5 @@
 prompt("What is your Name?");
+
 prompt("What is thier Name?");
 
 var loveScore = Math.random() * 100;
